@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/aspose-cells-8.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/commons-vfs2-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/extentreports-2.05.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/ganymed-ssh2-build210.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/iText-rtf-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/java-client-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/java-client-2.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/jsch-0.1.51.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/jsoup-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/jyaml-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/selenium-api-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/selenium-chrome-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/selenium-firefox-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/selenium-ie-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/selenium-remote-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/selenium-server-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/selenium-support-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/testng.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/testng-6.8.6beta.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/lib/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
